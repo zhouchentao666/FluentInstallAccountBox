@@ -1,0 +1,10 @@
+{
+  "devices": [
+    {
+      "id": "982e211dbe70a3eb",
+      "name": "kobexi-本机",
+      "public_key": "-----BEGIN PUBLIC KEY-----\nMIIBojANBgkqhkiG9w0BAQEFAAOCAY8AMIIBigKCAYEAwwhRywpE15MnSiYanigp\nFsUzejcTf0flZw8ZPXdmzFaoYKXILg1msl5zRIZSlGfwc8xSVoAEfs7C32x8vnT4\nhVmmLCtT6KGiT3/SWjrfyC3d/YwVE2/gZBkjVPVyVLIm1+zyDtSp9Pm85gA2vTv6\n+Q5Q4iY6Ldr2fcDyvM105RUOOfEIkQjtRq52nja16bIxwtsn+f18jG3sS2wFBhfk\nJ8A3XNDpENnE+q7yv/QCOS4SgAcIUH0hLzpoY/e2Uzgs9ANMapqZ+ldDurrbybSp\nOK/UFpdmN0lihjjlb/+YSI/l5ni/GymheW+uFizlSvVkXpde8bJJaT84UVoeSxX1\nlmictvm0a/yYdZqazsjjvnUqHrUDtjdVITfpLrT31PxhVFpl6ht64WDy/pK3raig\nQphA0zVEOMF4lJtOgiT9uRhnCxPxNMrTuHHxlfDS7DVKUwYN2Y4Jv3z5ntKyXFZ6\nYYjWX1Iv98FApajHf02SP7ldZNnrv/EueqRQsobxSn9/AgMBAAE=\n-----END PUBLIC KEY-----",
+      "created_at": "2026-09-05T12:41:45Z"
+    }
+  ]
+}
