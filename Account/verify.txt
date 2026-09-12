@@ -1,0 +1,37 @@
+{
+  "codes": {
+    "9.12": {
+      "url": "https://drive.uc.cn/s/6f5152af2e214?public=1",
+      "hash": "e3f4c805bf3a657148292e14d8f20c5d1bf0c661c47c87c6f5b4c6cc19e95fd8"
+    },
+    "9.13": {
+      "url": "https://drive.uc.cn/s/4dfe10c461434?public=1",
+      "hash": "6d52d5ec42db99e4709f604403d69ae5ba2801c522d27713323bfff60a63e7dd"
+    },
+    "9.14": {
+      "url": "https://drive.uc.cn/s/2879a3f6369e4?public=1",
+      "hash": "9055bb1ec115ce156f077608ddcc05a2e57c1b00b53f3837bff6e6b242c9c8b6"
+    },
+    "9.15": {
+      "url": "https://drive.uc.cn/s/d75353a326564?public=1",
+      "hash": "1d5eb6565ded4c732382fbd2784a484f23357d8fc4fd54baa8d0849b42e0af4d"
+    },
+    "9.16": {
+      "url": "https://drive.uc.cn/s/4091576166ac4?public=1",
+      "hash": "5990388da2f713b3340a7be70c4afc4275045cf7c943573cd4f1d2c2063b72e9"
+    },
+    "9.17": {
+      "url": "https://drive.uc.cn/s/8ddd92cab7094?public=1",
+      "hash": "43a5210aa16db013e0276e70606da2b66c75932ed53e2f61ec84d8d6774173af"
+    },
+    "9.18": {
+      "url": "https://drive.uc.cn/s/cd2b6b81d1054?public=1",
+      "hash": "e68baba232709d49179ea227e4f229dca399e831810fdabe1ff5f592e2e4c3b0"
+    },
+    "9.19": {
+      "url": "https://drive.uc.cn/s/fd1b75cab23f4?public=1",
+      "hash": "28d952436cb16b041137cda4da9816d4cbf24d8c9733e84aef0f96b3633c44e8"
+    }
+  },
+  "updated_at": "2026-09-12T00:00:00Z"
+}
