@@ -1,7 +1,7 @@
 {
-  "account_version": 9,
+  "account_version": 10,
   "app_version": "1.0.0",
   "download_url": "",
-  "updated_at": "2026-09-06T07:04:40Z",
-  "notes": "卡片标题加上 Steam AppID 前缀（共 12 条）"
+  "updated_at": "2026-09-12T02:30:42Z",
+  "notes": "新增 霍格沃兹之遗、嗜血代码、如龙7外传、歧路旅人0 账号"
 }
